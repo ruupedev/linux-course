@@ -10,8 +10,11 @@ As stated earlier in this summary, one benefit of open source is that it allows 
 ## Free or Open?
 A common misconception is that free software = open source software. While both are free to use there is one key difference. Free software has a copyright owener who has choosen to give the software away for free while the source code is still closed.
 
+## Impact on tech and infrastructure
+The impact of OSS to the world of tech and it's infrastructure can first seem invisible. But after looking around for a while, almost everyone interacts with products that are or leverage OSS. For example a person using an Android phone to open Mozilla Firefox and browsing to a WordPress website that is running on a Linux server. Or a Hollywood special effects artist creating the next James Bond firefight scene's explosions using Blender and GIMP. Our technological world is largely built on top of open source software and it can almost seem like a miracle that this kind of massive ecosystem of fully available code is waiting to be freely utilised in a highly capitalistic world.
+
 ## Final words
-All in all the whole developer community can thank Richard Stallman for pioneering with public licenses. Open source is a communal and non discriminating way to further develop the digital world we live in. Offering great learning opportunities and technologies absolutely free of charge. Some noteworthy open source software that have changed the world are Linux, WordPress and Android. 
+All in all the whole developer community can thank Richard Stallman for pioneering with public licenses. Open source is a communal and non discriminating way to further develop the digital world we live in. Offering great learning opportunities and technologies absolutely free of charge. Some noteworthy open source software that have changed the world are Linux, WordPress and Android.
 
 ## References
 Coursera 2025: https://www.coursera.org/articles/what-is-open-source-software
